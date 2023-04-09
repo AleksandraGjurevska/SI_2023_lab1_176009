@@ -1,0 +1,32 @@
+    Fix method sumEvenNumbers
+
+commit b45d033de784933f66e2734d7a63d27676ff39f9
+Merge: f2892d4 e2cc863
+Author: AleksandraGjurevska <aleksandra.gjurevska10@gmail.com>
+Date:   Sun Apr 9 21:57:57 2023 +0200
+
+    Merge branch 'bug2'
+
+commit e2cc86354deebb205b9e9df0d1af8df3bf8853f8 (bug2)
+Author: AleksandraGjurevska <aleksandra.gjurevska10@gmail.com>
+Date:   Sun Apr 9 21:25:36 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit f2892d4824dfa67a4e0e32bcda6029c63cba1c09 (bug1)
+Author: AleksandraGjurevska <aleksandra.gjurevska10@gmail.com>
+Date:   Sun Apr 9 21:22:15 2023 +0200
+
+     Fix wrong loop for reading
+
+commit 11730cfc1404d47cbbd448ec8ed37fbf8d008bcb
+Author: AleksandraGjurevska <aleksandra.gjurevska10@gmail.com>
+Date:   Sun Apr 9 21:12:21 2023 +0200
+
+    Add java class
+
+commit 8ffc3b05998029f6d3c76c740ab7e709b19f2f98
+Author: AleksandraGjurevska <aleksandra.gjurevska10@gmail.com>
+Date:   Sun Apr 9 21:10:46 2023 +0200
+
+    Initial commit
